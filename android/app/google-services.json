@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "730393211901",
+    "project_id": "meet-5a15d",
+    "storage_bucket": "meet-5a15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730393211901:android:7113e582472c0027941f94",
+        "android_client_info": {
+          "package_name": "com.gmeet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730393211901-7nlu1a0dlmo3r227idqscs8krnf4j328.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDreHlQk1smw33VJWz68IlTSrv86L2S-xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730393211901-7nlu1a0dlmo3r227idqscs8krnf4j328.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730393211901:android:6e4e9e8dac4b4df4941f94",
+        "android_client_info": {
+          "package_name": "com.example.meet_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730393211901-7nlu1a0dlmo3r227idqscs8krnf4j328.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDreHlQk1smw33VJWz68IlTSrv86L2S-xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730393211901-7nlu1a0dlmo3r227idqscs8krnf4j328.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730393211901:android:ceffa8762cc04d70941f94",
+        "android_client_info": {
+          "package_name": "com.gmeet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730393211901-38kcf8mmb5tat9vrllkni6b0hqqgcq0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmeet.app",
+            "certificate_hash": "7c9420e4c61ff48f2b46f4211be4205111bed6ed"
+          }
+        },
+        {
+          "client_id": "730393211901-7nlu1a0dlmo3r227idqscs8krnf4j328.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDreHlQk1smw33VJWz68IlTSrv86L2S-xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730393211901-7nlu1a0dlmo3r227idqscs8krnf4j328.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730393211901:android:f121e47cd6118462941f94",
+        "android_client_info": {
+          "package_name": "com.meet_clone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730393211901-7nlu1a0dlmo3r227idqscs8krnf4j328.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDreHlQk1smw33VJWz68IlTSrv86L2S-xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730393211901-7nlu1a0dlmo3r227idqscs8krnf4j328.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
